@@ -1,7 +1,5 @@
 {
   "name": "dialpad-to-make",
   "version": "1.0.0",
-  "dependencies": {
-    "node-fetch": "^3.0.0"
-  }
+  "dependencies": {}
 }
